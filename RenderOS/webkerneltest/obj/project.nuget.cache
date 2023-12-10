@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "JYWlw323JWCtIH30wE1gU00BuiONYqygQ0hn+GmVyU4SpxLBeNbYpnxwn6Y5NFqDgpV2LnkiY0AIbOmwc7qHIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samma\\source\\repos\\webkerneltest\\webkerneltest\\webkerneltest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samma\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20231204012205\\cosmos.build.0.1.0-localbuild20231204012205.nupkg.sha512",
+    "C:\\Users\\Samma\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20231204012222\\cosmos.common.0.1.0-localbuild20231204012222.nupkg.sha512",
+    "C:\\Users\\Samma\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20231204012222\\cosmos.core.0.1.0-localbuild20231204012222.nupkg.sha512",
+    "C:\\Users\\Samma\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20231204012222\\cosmos.debug.kernel.0.1.0-localbuild20231204012222.nupkg.sha512",
+    "C:\\Users\\Samma\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20231204012222\\cosmos.hal2.0.1.0-localbuild20231204012222.nupkg.sha512",
+    "C:\\Users\\Samma\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20231204012222\\cosmos.plugs.0.1.0-localbuild20231204012222.nupkg.sha512",
+    "C:\\Users\\Samma\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20231204012222\\cosmos.system2.0.1.0-localbuild20231204012222.nupkg.sha512",
+    "C:\\Users\\Samma\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20231204012222\\il2cpu.api.0.1.0-localbuild20231204012222.nupkg.sha512"
+  ],
+  "logs": []
+}

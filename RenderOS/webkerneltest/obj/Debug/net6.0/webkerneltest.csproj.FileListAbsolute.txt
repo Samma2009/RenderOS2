@@ -1,0 +1,12 @@
+C:\Users\Samma\source\repos\webkerneltest\webkerneltest\bin\Debug\net6.0\webkerneltest.deps.json
+C:\Users\Samma\source\repos\webkerneltest\webkerneltest\bin\Debug\net6.0\webkerneltest.dll
+C:\Users\Samma\source\repos\webkerneltest\webkerneltest\bin\Debug\net6.0\webkerneltest.pdb
+C:\Users\Samma\source\repos\webkerneltest\webkerneltest\obj\Debug\net6.0\webkerneltest.csproj.AssemblyReference.cache
+C:\Users\Samma\source\repos\webkerneltest\webkerneltest\obj\Debug\net6.0\webkerneltest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samma\source\repos\webkerneltest\webkerneltest\obj\Debug\net6.0\webkerneltest.AssemblyInfoInputs.cache
+C:\Users\Samma\source\repos\webkerneltest\webkerneltest\obj\Debug\net6.0\webkerneltest.AssemblyInfo.cs
+C:\Users\Samma\source\repos\webkerneltest\webkerneltest\obj\Debug\net6.0\webkerneltest.csproj.CoreCompileInputs.cache
+C:\Users\Samma\source\repos\webkerneltest\webkerneltest\obj\Debug\net6.0\webkerneltest.dll
+C:\Users\Samma\source\repos\webkerneltest\webkerneltest\obj\Debug\net6.0\refint\webkerneltest.dll
+C:\Users\Samma\source\repos\webkerneltest\webkerneltest\obj\Debug\net6.0\webkerneltest.pdb
+C:\Users\Samma\source\repos\webkerneltest\webkerneltest\obj\Debug\net6.0\ref\webkerneltest.dll
